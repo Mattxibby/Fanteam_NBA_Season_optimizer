@@ -4,4 +4,5 @@ I calculated the optimal team by introducing a variable I called 'value' which r
 Using this variable, I optimized my team subject to the budget I had, I repeated this process twice using data in the last 21 days and last 30 days, in order to try to weed out short term jumps in form
 At the time of writing this wildcard has launched me back into contention for the paid places, placing withing the top 1000 and the top 100 in the gameweek after I played my wildcard, despite an injury to one of my premium player (Joel Embiid).
 ![image](https://github.com/Mattxibby/Fanteam_NBA_Season_optimizer/assets/157139305/3a880ed6-8490-47a5-ad96-b641e5fa40c1)
+
 I am attempting to convert this code to be usable in fanteam's daily fantasy contests using player predictions found online
